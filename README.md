@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[git events](https://gitstalk.netlify.app/aylax)
+Hi! There's my [Git Event](https://gitstalk.netlify.app/aylax).
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aylax&hide=Vim%20script,Vim%20Snippet">
