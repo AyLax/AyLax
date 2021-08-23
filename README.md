@@ -12,12 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/aylax/cdn@master/img/avatar/cats-girl.jpeg">
 </div>
 
 <p align="center">
-  <samp>aylax 🞘 zhou</samp>
+  <samp>aylax :cyclone: zhou</samp>
 </p>
 
 <p align="center">
@@ -28,11 +29,3 @@ Here are some ideas to get you started:
   <samp>
 </p>
 
-<details>
-  <summary>
-    <b>:cyclone:</b>
-  </summary>
-  <div>
-
-  </div>
-</details>
