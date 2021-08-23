@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <samp>
     <a href="https://gitstalk.netlify.app/aylax">stalk</a> 🞘
     <a href="https://github.com/aylax/dothub.emacs">eamcs</a> 🞘 
-    <a href="https://github.com/aylax/kithub.math">kmath</a>
+    <a href="https://github.com/aylax/desktop">nixos</a>
   <samp>
 </p>
 
