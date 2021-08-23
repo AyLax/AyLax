@@ -30,12 +30,9 @@ Here are some ideas to get you started:
 
 <details>
   <summary>
-    <b>:dango:</b>
+    <b>:cyclone:</b>
   </summary>
   <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aylax&theme=buefy&include_all_commits=true">
-      <img align="right" src="https://github-readme-stats.vercel.app/api?username=aylax&show_icons=true&theme=buefy&include_all_commits=true">
-    </a>
+
   </div>
 </details>
