@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 </div>
 
 <p align="center">
+  <samp>aylax 🞘 zhou</samp>
+</p>
+
+<p align="center">
   <samp>
     <a href="https://gitstalk.netlify.app/aylax">stalk</a> 🞘
     <a href="https://github.com/aylax/dothub.emacs">eamcs</a> 🞘 
