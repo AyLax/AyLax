@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
 <details>
   <summary>
-    <b>:dango:</b>
-    <p>[stalk](https://gitstalk.netlify.app/aylax)</p>
+    <b>:dango:</b> [stalk](https://gitstalk.netlify.app/aylax)
   </summary>
   <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
