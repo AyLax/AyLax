@@ -16,6 +16,14 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/aylax/cdn@master/img/avatar/cats-girl.jpeg">
 </div>
 
+<p align="center">
+  <samp>
+    <a href="https://gitstalk.netlify.app/aylax">stalk</a> 🞘
+    <a href="https://github.com/aylax/dothub.emacs">eamcs</a> 🞘 
+    <a href="https://github.com/aylax/kithub.math">kmath</a>
+  <samp>
+</p>
+
 <details>
   <summary>
     <b>:dango:</b>
@@ -27,5 +35,3 @@ Here are some ideas to get you started:
     </a>
   </div>
 </details>
-
-[stalk](https://gitstalk.netlify.app/aylax)
