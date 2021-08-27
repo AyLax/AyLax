@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </div>
 
 <p align="center">
-  <samp>aylax :cyclone: zhou</samp>
+  <samp>aylax 🞘 zhou</samp>
 </p>
 
 <p align="center">
