@@ -6,5 +6,9 @@ I'm interested in these things now and hope to complete in recent 2 year.
 - [ ] create a game *`Rust`* *`Rogue Like`*
 - [ ] design a wiki-system *`Rust`* *`No Database`*
 
-### Rogue Game
-I prepare to write a game based bevy engine.
+### Rogue Like Game
+...
+
+### Wiki System
+...
+
