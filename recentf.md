@@ -7,8 +7,8 @@ I'm interested in these things now and hope to complete in recent 2 year.
 - [ ] design a wiki-system *`Rust`* *`No Database`*
 
 ### Rogue Like Game
-...
+[design for game](./rezero-istarila.md)
 
 ### Wiki System
-...
+[design for system](./wiki-system.md)
 
